@@ -14,9 +14,9 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Documentation</template>
 
-    Vue’s
-    <a href="https://vuejs.org/" target="_blank" rel="noopener">official documentation</a>
-    provides you with all information you need to get started.
+    Click on
+    <a href="https://vuejs.org/" target="_blank" rel="noopener">this thing</a>
+    to find out everything you need to know. But be warned ... it's very boring
   </WelcomeItem>
 
   <WelcomeItem>
@@ -25,20 +25,20 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Tooling</template>
 
-    This project is served and bundled with
-    <a href="https://vite.dev/guide/features.html" target="_blank" rel="noopener">Vite</a>. The
-    recommended IDE setup is
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noopener">VSCode</a> +
-    <a href="https://github.com/johnsoncodehk/volar" target="_blank" rel="noopener">Volar</a>. If
-    you need to test your components and web pages, check out
+    The reason you are here is all because of
+    <a href="https://vite.dev/guide/features.html" target="_blank" rel="noopener">Vite</a>. I can't
+    take any credit for this. Also you might wanna use
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noopener">VSCode</a> and perhaps also
+    <a href="https://github.com/johnsoncodehk/volar" target="_blank" rel="noopener">Volar</a> to even use it properly.
+    I'd also propose the uses of
     <a href="https://www.cypress.io/" target="_blank" rel="noopener">Cypress</a> and
     <a href="https://on.cypress.io/component" target="_blank" rel="noopener"
       >Cypress Component Testing</a
-    >.
+    > if I knew it wouldn't overwhelm you too much, but I don't know that about you.
 
     <br />
 
-    More instructions are available in <code>README.md</code>.
+    If you're tired of hearing me talk about it, you can read the same information verbatim over in <code>README.md</code>.
   </WelcomeItem>
 
   <WelcomeItem>
@@ -47,14 +47,14 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Ecosystem</template>
 
-    Get official tools and libraries for your project:
+    I feel like you're very into libraries. I bet that when you showed up you were like "This is cool and all but I really wish I could have some libraries right now." And don't worry, I got you covered m'broski. Here are some:
     <a href="https://pinia.vuejs.org/" target="_blank" rel="noopener">Pinia</a>,
     <a href="https://router.vuejs.org/" target="_blank" rel="noopener">Vue Router</a>,
     <a href="https://test-utils.vuejs.org/" target="_blank" rel="noopener">Vue Test Utils</a>, and
     <a href="https://github.com/vuejs/devtools" target="_blank" rel="noopener">Vue Dev Tools</a>. If
-    you need more resources, we suggest paying
+    that's somehow not enough, I'll top the list off with
     <a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">Awesome Vue</a>
-    a visit.
+    for the rest of your needs you kinky boi.
   </WelcomeItem>
 
   <WelcomeItem>
@@ -63,26 +63,25 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Community</template>
 
-    Got stuck? Ask your question on
-    <a href="https://chat.vuejs.org" target="_blank" rel="noopener">Vue Land</a>, our official
-    Discord server, or
+    Now I'm not assuming you're a lonely person, you know that's not what I'm insinuating. At all. To any degree. Buuuuuuuuut just in case ...
+    <a href="https://chat.vuejs.org" target="_blank" rel="noopener">Vue Land</a> is a good spot
+    for makin some friends, much less so is
     <a href="https://stackoverflow.com/questions/tagged/vue.js" target="_blank" rel="noopener"
       >StackOverflow</a
-    >. You should also subscribe to
-    <a href="https://news.vuejs.org" target="_blank" rel="noopener">our mailing list</a> and follow
-    the official
-    <a href="https://twitter.com/vuejs" target="_blank" rel="noopener">@vuejs</a>
-    twitter account for latest news in the Vue world.
+    > but you could get a kick out of that too. Did I mention we have a
+    <a href="https://news.vuejs.org" target="_blank" rel="noopener">mailing list</a>? Yes, just now, you've just heard me mention it.
+    Oh and I guess if you still use X then you could pop on over to
+    <a href="https://twitter.com/vuejs" target="_blank" rel="noopener">@vuejs</a>, we're barely active on there though
   </WelcomeItem>
 
   <WelcomeItem>
     <template #icon>
       <SupportIcon />
     </template>
-    <template #heading>Support Vue</template>
+    <template #heading>Support us please for the love of God</template>
 
-    As an independent project, Vue relies on community backing for its sustainability. You can help
-    us by
-    <a href="https://vuejs.org/sponsor/" target="_blank" rel="noopener">becoming a sponsor</a>.
+    We're an independent bunch of lads and it's because of that that we don't get PAID ENOUGH for our risky endeavors. Yes, this is a risky endeavor. Don't act like it isn't.
+    Anyway, I think it'd be in your best interest to
+    <a href="https://vuejs.org/sponsor/" target="_blank" rel="noopener">be a frickin sponsor for our thing</a>. It'd help us keep this thing sustainable - and if there's anything we love most, it's sustaining things.
   </WelcomeItem>
 </template>
